@@ -67,11 +67,11 @@
 
 @media (max-width: 1199px){ .u-section-6 .u-text-1 {margin-left: 0}
 .u-section-6 .u-text-2 {margin-left: 0} }.u-section-7 {margin-top: 0; margin-bottom: 0}
-.u-section-7 .u-sheet-1 {min-height: 500px}
-.u-section-7 .u-custom-html-1 {min-height: 607px; margin: -52px 63px 0 -23px}
-.u-section-7 .u-btn-1 {background-image: none; border-style: none; font-size: 0.75rem; margin: 0 auto 60px -23px} 
+.u-section-7 .u-sheet-1 {min-height: 741px}
+.u-section-7 .u-custom-html-1 {min-height: 627px; margin: 20px 20px 0 0}
+.u-section-7 .u-btn-1 {background-image: none; border-style: none; font-size: 0.75rem; margin: -5px auto 60px -23px} 
 
-@media (max-width: 1199px){ .u-section-7 .u-custom-html-1 {margin-left: 0; margin-right: 0; width: 940px; height: auto}
+@media (max-width: 1199px){ .u-section-7 .u-custom-html-1 {margin-right: 0; width: 940px; height: auto}
 .u-section-7 .u-btn-1 {margin-left: 0} }
 
 @media (max-width: 991px){ .u-section-7 .u-custom-html-1 {width: 720px} }
